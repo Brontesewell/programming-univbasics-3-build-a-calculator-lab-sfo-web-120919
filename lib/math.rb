@@ -3,7 +3,7 @@ def addition(num1, num2)
   sum
 end
 
-addition(2,4)
+addition(2, 4)
 
 def subtraction(num1, num2)
 
